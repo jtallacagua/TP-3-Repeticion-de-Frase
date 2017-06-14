@@ -15,7 +15,7 @@ int main ()
 	A:
 	cout<<"Programa JESI! "<< endl;
 	i=i+1;
-	if (i<200)
+	if (i<10)
 		goto A;	
 		
 }
