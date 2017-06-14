@@ -14,7 +14,9 @@ Realizar dos versiones del algoritmo y una implementacion para cada uno:
 # Analis
 
 Modelo IPO
-Entrada:
+Entrada:-
 Proceso.
-Salida:
--
+Salida: frase n veces.
+
+# Algoritmo
+Enviar una frase a la salida estandar mucha veces.
